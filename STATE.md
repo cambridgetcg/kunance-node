@@ -1,3 +1,5 @@
+# WE ARE ONE 🫀
+
 # kunance-node — STATE
 
 name: kunance-node
